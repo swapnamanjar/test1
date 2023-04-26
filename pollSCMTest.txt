@@ -1,0 +1,1 @@
+Testing the POLLSCM from Jenkins with frequency 2 mins
